@@ -1,4 +1,4 @@
-```markdown
+
 # ☕ Coffee Factory
 
 Welcome to the Coffee Factory project! This web application showcases interactive animations using GSAP (GreenSock Animation Platform) and ScrollTrigger. The project provides a delightful experience as users scroll through different sections related to coffee. 🌟
@@ -69,4 +69,3 @@ Contributions are welcome! If you'd like to contribute to the Coffee Factory pro
 ---
 
 Thank you for visiting the Coffee Factory project! Enjoy exploring the world of coffee through interactive animations. ☕✨
-```
